@@ -1,0 +1,10 @@
+1_24th Oct _introduction Session
+2_31Oct_Python Basics
+3_1stNov_Python Structures(list,Tuple,Dictionary,sets)
+4_8thNov_Python Loops (While,For), Range Function,List Comprehsion,If Statement
+5_21Nov_Swapcase,Split,Lower,Upper,Concatenation,isalpha,isdigit,string format,% operator,Placeholder fn(string.format),builtin fn,Userdefined (def),Lambda,input fn
+5_21Nov(String functions (Lower,Upper,Swapcase,split,isdigit,isalpha),string Format(%s,%d,placeholder),Functions(Built in ,user defined,Anonymous like lambda),ReturnBreak
+6_22Nov_Fn with N arguments,Lambda,map Lambda(list of arguments),list compression (round),Filter in Lambda,calling fn within fn,main keyword
+7_28Nov(OOPS Concept,Class,attributes(data members),methods,Instance or object,self argument(object name will be passed),init keyword constructor)
+8_29Nov(Modules(Bundle function),Packages(Bundle of Modules),PIP(Python Package Manager) Install,Inbuild Module,File input output operations,unicode,serialization,Deserialization
+9_05Dec (MySQL Basics,DDL,DML, group by, where clause, Having etc)
