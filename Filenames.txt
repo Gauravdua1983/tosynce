@@ -2,3 +2,4 @@
 6_22Nov_Fn with N arguments,Lambda,map Lambda(list of arguments),list compression (round),Filter in Lambda,calling fn within fn,main keyword
 7_28Nov(OOPS Concept,Class,attributes(data members),methods,Instance or object,self argument(object name will be passed),init keyword constructor)
 8_29Nov(Modules(Bundle function),Packages(Bundle of Modules),PIP(Python Package Manager) Install,Inbuild Module,File input output operations,unicode,serialization,Deserialization
+9_05Dec (MySQL Basics,DDL,DML, group by, where clause, Having etc
