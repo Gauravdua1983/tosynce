@@ -8,3 +8,14 @@
 7_28Nov(OOPS Concept,Class,attributes(data members),methods,Instance or object,self argument(object name will be passed),init keyword constructor)
 8_29Nov(Modules(Bundle function),Packages(Bundle of Modules),PIP(Python Package Manager) Install,Inbuild Module,File input output operations,unicode,serialization,Deserialization
 9_05Dec (MySQL Basics,DDL,DML, group by, where clause, Having etc)
+
+
+
+10mysql-connector(pip install mysql-connector-python),pandas,pandas.read_sql_query,DBconnection,dataframe,head,tail,sample
+
+Data Science Libaries :- Numpy (Numerical Python) - MultiDimensional array - Mathematical and Logical operations on array, for Linear algebra ,Shape function
+ndarray
+
+1:45
+
+Pandas
